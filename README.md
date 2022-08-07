@@ -87,6 +87,5 @@ Operating Systems:
     <a href="https://www.instagram.com/thewickedkarma/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
-    <a href="https://discord.com/channels/thewickedkarma">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+    
 </p>  
